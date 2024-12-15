@@ -1,6 +1,6 @@
 # gits - A Simple Git Automation Script
 
-Small script I made for fun to make it easier to commit and push changes to a repository.
+Small script I made for fun to make it easier to commit and push changes to a git repository.
 
 ## Setup & Usage
 
